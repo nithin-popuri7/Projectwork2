@@ -133,13 +133,15 @@ Edge detection algorithms fall primarily into two categories – Gradient based 
 ## Output
 
 <!--Embed the Output picture at respective places as shown below as shown below-->
-#### Output1 - Person sking
+#### Output1 -Login
 
-<img width="816" alt="output1" src="https://github.com/user-attachments/assets/3db9ccaf-05d0-47d3-a925-e0b28382d668" />
+<img width="762" alt="login" src="https://github.com/user-attachments/assets/728ea20e-2d46-41a2-bea5-dbc5cb2d6c25" />
 
-#### Output2 - Kid sliding into pool
 
-<img width="691" alt="output2" src="https://github.com/user-attachments/assets/6f9c20c3-f840-4a35-91bc-370eaaa6c269" />
+#### Output2 - Dog running on the sand
+
+![image](https://github.com/user-attachments/assets/c6931114-744c-4e38-8204-3411403ad9ae)
+
 
 
 Detection Accuracy: 95%
